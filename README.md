@@ -4,4 +4,4 @@ Ivan Shapirov,
 Gabe Vindas,
 Jenny Liu,
 Raheel Jooma,
-Jean Ka,
+Jean Ka
